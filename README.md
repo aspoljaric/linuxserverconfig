@@ -10,12 +10,12 @@ The objective of this project is to get a base installation of Linux (Ubuntu) wh
 Server Details
 --------------
 
-Web application: http://ec2-35-162-25-39.us-west-2.compute.amazonaws.com
-Server IP: 35.162.25.39
-SSH Port: 2200
+- Web application: http://ec2-35-162-25-39.us-west-2.compute.amazonaws.com
+- Server IP: 35.162.25.39
+- SSH Port: 2200
 
-Username: grader
-Connection Paramaters: ssh -i udacity_key_grader.rsa grader@35.162.25.39 -p2200
+- Username: grader
+- Connection Paramaters: ssh -i udacity_key_grader.rsa grader@35.162.25.39 -p2200
 
 Summary of Changes
 ------------------
@@ -294,11 +294,11 @@ sudo service apache2 restart
 
 Resources Referenced
 --------------------
-[Ubuntu Time Management](https://help.ubuntu.com/community/UbuntuTime)
-[PostgreSQL 9.3.15 Documentation](https://www.postgresql.org/docs/9.3/static)
-[Flask Deploying](http://flask.pocoo.org/docs/0.10/deploying/mod_wsgi/)
-[How To Deploy a Flask Application on an Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
-[Apache HTTP Server Version 2.4 Documentation](https://httpd.apache.org/docs/2.4/)
+- [Ubuntu Time Management](https://help.ubuntu.com/community/UbuntuTime)
+- [PostgreSQL 9.3.15 Documentation](https://www.postgresql.org/docs/9.3/static)
+- [Flask Deploying](http://flask.pocoo.org/docs/0.10/deploying/mod_wsgi/)
+- [How To Deploy a Flask Application on an Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
+- [Apache HTTP Server Version 2.4 Documentation](https://httpd.apache.org/docs/2.4/)
 
 Author
 ------
